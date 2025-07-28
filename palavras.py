@@ -1,4 +1,4 @@
-palavras = {
+palavras_por_categoria = {
     "Frutas": ["banana", "abacaxi", "morango", "melancia", "uva",
                "laranja", "cereja", "manga", "pera", "kiwi"],
     "Animais": ["elefante", "cachorro", "gato", "leão", "tigre",
