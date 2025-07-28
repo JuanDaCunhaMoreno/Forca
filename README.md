@@ -1,11 +1,11 @@
 Jogo da Forca
-
+---
 Descrição
-
+---
 Este é um jogo da forca simples e interativo desenvolvido em Python. O jogo permite que o jogador escolha entre diferentes categorias de palavras e tente adivinhar a palavra oculta antes que o boneco da forca seja completamente desenhado.
 
 Funcionalidades
-
+---
 •
 Seleção de Categoria: Escolha entre diversas categorias de palavras (Frutas, Animais, Cores, Países, Objetos, Profissões).
 
@@ -22,7 +22,7 @@ Controle de Chances: O número de chances é dinâmico, baseado no tamanho da pa
 Feedback de Letras Erradas: Mostra as letras que já foram tentadas e estão incorretas.
 
 Como Jogar
-
+---
 1.
 O jogo apresentará uma lista de categorias de palavras.
 
@@ -42,7 +42,7 @@ Se a letra não estiver na palavra, você perderá uma chance e uma parte do bon
 O jogo termina quando você adivinhar a palavra (vitória) ou quando suas chances acabarem e o boneco da forca estiver completo (derrota).
 
 Estrutura do Projeto
-
+---
 O projeto é composto pelos seguintes arquivos Python:
 
 •
