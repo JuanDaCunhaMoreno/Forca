@@ -23,23 +23,17 @@ Feedback de Letras Erradas: Mostra as letras que já foram tentadas e estão inc
 
 Como Jogar
 ---
-1.
-O jogo apresentará uma lista de categorias de palavras.
+1. O jogo apresentará uma lista de categorias de palavras.
 
-2.
-Escolha uma categoria digitando o número correspondente.
+2. Escolha uma categoria digitando o número correspondente.
 
-3.
-Tente adivinhar a palavra secreta, digitando uma letra por vez.
+3. Tente adivinhar a palavra secreta, digitando uma letra por vez.
 
-4.
-Se a letra estiver na palavra, ela será revelada nas posições corretas.
+4. Se a letra estiver na palavra, ela será revelada nas posições corretas.
 
-5.
-Se a letra não estiver na palavra, você perderá uma chance e uma parte do boneco da forca será desenhada.
+5. Se a letra não estiver na palavra, você perderá uma chance e uma parte do boneco da forca será desenhada.
 
-6.
-O jogo termina quando você adivinhar a palavra (vitória) ou quando suas chances acabarem e o boneco da forca estiver completo (derrota).
+6. O jogo termina quando você adivinhar a palavra (vitória) ou quando suas chances acabarem e o boneco da forca estiver completo (derrota).
 
 Estrutura do Projeto
 ---
